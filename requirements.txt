@@ -1,4 +1,7 @@
-openai==0.28
 streamlit 
 matplotlib
 streamlit_shap
+pandas
+numpy
+sklearn
+shap
