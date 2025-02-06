@@ -2,7 +2,6 @@ openai==0.28
 streamlit 
 shap
 pandas
-numpy
 sklearn
 matplotlib
 streamlit_shap
