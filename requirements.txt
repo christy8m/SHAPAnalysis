@@ -1,7 +1,4 @@
 openai==0.28
 streamlit 
-shap
-pandas
-sklearn
 matplotlib
-
+streamlit_shap
