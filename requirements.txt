@@ -3,5 +3,5 @@ matplotlib
 streamlit_shap
 pandas
 numpy
-sklearn
+scikit-learn
 shap
